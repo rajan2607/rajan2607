@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rajan Pandey</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/10bdXzSQyloUq9fwsE9zaFgZY36XhsvM_/view?usp=drive_link"
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/view-3d-man-with-tech-device_23-2150710048.jpg?t=st=1704295296~exp=1704298896~hmac=0eb57439ab01ce3ccce598b5a00412adc10c5acc120fe21d9e6390be54d7004a&w=740">
 
 
 <p align="left"> <a href="https://twitter.com/rajan_1002_" target="blank"><img src="https://img.shields.io/twitter/follow/rajan_1002_?logo=twitter&style=for-the-badge" alt="rajan_1002_" /></a> </p>
