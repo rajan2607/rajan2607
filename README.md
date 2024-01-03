@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajan Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmpQVTEGYs0Xvdo8eu3iq9zXXaM2A6DKobw&usqp=CAU"
+<h1 align="center">Hello 👋, I'm Rajan Pandey</h1>
+<h3 align="center">A passionate frontend developer </h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fbbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif&tbnid=HtOdKVYyAYHVSM&vet=10CAUQxiAoA2oXChMIqL3qj_3BgwMVAAAAAB0AAAAAEB0..i&imgrefurl=https%3A%2F%2Fwww.codeyourcareer.com%2Fweb-development&docid=ecKa25lukd3qqM&w=500&h=500&itg=1&q=animated%20coding%20gif%20for%20computer%20science%20students&hl=en&ved=0CAUQxiAoA2oXChMIqL3qj_3BgwMVAAAAAB0AAAAAEB0"
 
 
 <p align="left"> <a href="https://twitter.com/rajan_1002_" target="blank"><img src="https://img.shields.io/twitter/follow/rajan_1002_?logo=twitter&style=for-the-badge" alt="rajan_1002_" /></a> </p>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan2607&show_icons=true&locale=en" alt="rajan2607" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan2607&" alt="rajan2607" /></p>
+
