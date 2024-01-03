@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Rajan Pandey</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=cartoon%20programmer&position=1&from_view=keyword&track=ais&uuid=3bbd7685-4c71-48c8-adda-1935cc788c01"
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/10bdXzSQyloUq9fwsE9zaFgZY36XhsvM_/view?usp=drive_link"
 
 
 <p align="left"> <a href="https://twitter.com/rajan_1002_" target="blank"><img src="https://img.shields.io/twitter/follow/rajan_1002_?logo=twitter&style=for-the-badge" alt="rajan_1002_" /></a> </p>
