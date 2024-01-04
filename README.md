@@ -1,3 +1,4 @@
+![logo](https://github.com/rajan2607/rajan2607/blob/main/github-header-image.png)
 <h1 align="center">Hello 👋, I'm Rajan Pandey</h1>
 <h3 align="center">A passionate frontend developer </h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/view-3d-man-with-tech-device_23-2150710048.jpg?t=st=1704295296~exp=1704298896~hmac=0eb57439ab01ce3ccce598b5a00412adc10c5acc120fe21d9e6390be54d7004a&w=740">
